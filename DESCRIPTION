@@ -1,10 +1,10 @@
 Title: Making R package
 Version: 0.0.0.9000
+Package: libminer2
 Authors@R: 
     person("Jin", "Zhang", , "jza18@sfu.ca", role = c("aut", "cre")) 
-Description: Building my first package
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: Building my first package in a course. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
